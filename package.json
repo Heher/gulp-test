@@ -1,0 +1,13 @@
+{
+  "name": "gulptest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^3.0.1"
+  }
+}
